@@ -6,4 +6,4 @@ Projectile calculator. Strongly input-sensitive. Runs in CLI. Compiled for C++ 1
 * Understanding of classes, namespaces, and objects
 * Understanding of data types and structures
 
-#### **please note that this software has not been heavily tested or error-handled. Expects mostly valid user inputs.**
+#### **Work in progress**
